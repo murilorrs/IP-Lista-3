@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.js": "javascriptreact",
+    "*.json": "jsonc",
+    "EX29.C": "cpp"
+  }
+}
